@@ -6,7 +6,7 @@
 Ezlog is intended to be a zero-configuration structured logging setup for pure Ruby or [Ruby on Rails](https://rubyonrails.org/) 
 projects using any (or all) of the following libraries or frameworks:
 
-* [Ruby on Rails](https://rubyonrails.org/) (5.x and 6.x supported)
+* [Ruby on Rails](https://rubyonrails.org/) (5.x, 6.x and 7.x supported)
 * [Sidekiq](https://github.com/mperham/sidekiq)
 * [Sequel](https://sequel.jeremyevans.net/) 
 * [Rack::Timeout](https://github.com/heroku/rack-timeout)
